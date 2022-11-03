@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rusty Soviet Slide
+* source:	https://sketchfab.com/3d-models/rusty-soviet-slide-ed352ad8725a47c79c786ddc398936ed
+* author:	shtran (https://sketchfab.com/shtran)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rusty Soviet Slide" (https://sketchfab.com/3d-models/rusty-soviet-slide-ed352ad8725a47c79c786ddc398936ed) by shtran (https://sketchfab.com/shtran) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
